@@ -1,6 +1,6 @@
 # Dodo Server Backend
 
-유저 관심사 기반의 도도 서비스 백엔드 API 서버입니다.
+유저 관심사 기반의 도도 서비스 백엔드 API 서버입니다
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
