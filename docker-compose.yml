@@ -30,7 +30,7 @@ services:
     networks:
       - dodo-network
   app:
-    image: ${DOCKERHUB_USERNAME}/dodo-server:latest
+    image: apdlwjwjwjd/dodo-server:latest
     container_name: dodo-app
     ports:
       - "8080:8080"
